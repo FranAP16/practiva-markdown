@@ -1,2 +1,4 @@
-# practiva-markdown
-Práctica de usos de las sintaxis Markdown
+# Práctica de la sistaxis de la Markdown
+## Encabezados
+## Negritas
+## Italicas
