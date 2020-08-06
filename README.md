@@ -4,8 +4,10 @@
 ## Encabezado nivel 2
 ##### Encabezado nivel 5
 ###### Encabezado nivel 6
-## Negritas
 ## Italicas
+*Texto*
+## Negritas
+
 ## Citas textuales
 ## Hipervinculos
 ## Imagenes
