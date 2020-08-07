@@ -21,4 +21,6 @@
 ![Sitio web de la UNA](https://www.una.ac.cr/)
 
 ## Imagenes
-![](http://www.pngall.com/copyright-symbol-r-registered-trademark-png
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
+
+
