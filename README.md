@@ -15,7 +15,7 @@
 
 ## Hipervinculos
 [Sitio web de la UNA](https://www.una.ac.cr/)
-## Imagenes
+
 ## Listas
  <a href="https://www.una.ac.cr/">Sitio web de la UNA</a>
 ![Sitio web de la UNA](https://www.una.ac.cr/)
