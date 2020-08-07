@@ -22,6 +22,9 @@
 
 ## Imagenes
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
-![](IMG/PNGLOGO.png)
 
 
+## Listas
+1. Parte I
+2. Parte II
+3. Parte III
