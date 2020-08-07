@@ -17,4 +17,4 @@
 [Sitio web de la UNA](https://www.una.ac.cr/)
 ## Imagenes
 ## Listas
- <a href="https://www.una.ac.cr/">Sitio web de la UNA</a>
+ <a href="https://www.una.ac.cr/"target="_blank">Sitio web de la UNA</a>
