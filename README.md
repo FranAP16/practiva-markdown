@@ -17,4 +17,8 @@
 [Sitio web de la UNA](https://www.una.ac.cr/)
 ## Imagenes
 ## Listas
- <a href="https://www.una.ac.cr/"target="_blank">Sitio web de la UNA</a>
+ <a href="https://www.una.ac.cr/">Sitio web de la UNA</a>
+![Sitio web de la UNA](https://www.una.ac.cr/)
+
+## Imagenes
+![](http://www.pngall.com/copyright-symbol-r-registered-trademark-png
