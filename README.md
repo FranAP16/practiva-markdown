@@ -8,7 +8,7 @@
 *Texto itálicas*  
 ## Negritas
 **Texto negritas**
-
+***itálicas y negritas***
 ## Citas textuales
 ## Hipervinculos
 ## Imagenes
