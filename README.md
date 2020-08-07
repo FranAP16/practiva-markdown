@@ -9,7 +9,7 @@
 ## Negritas
 **Texto negritas**
 ***itálicas y negritas***
->En un lugar de la mancha<
+>En un lugar de la mancha <
 ## Citas textuales
 ## Hipervinculos
 ## Imagenes
